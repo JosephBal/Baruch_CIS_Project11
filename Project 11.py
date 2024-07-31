@@ -2,7 +2,7 @@
 """
 Created on Sun Jan 22 14:29:07 2023
 
-@author: Admin
+@author: Joseph Balbuena
 """
 
 # In all questions MY_WORD refers to your unique 7-letter word 
